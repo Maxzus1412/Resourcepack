@@ -1,0 +1,18 @@
+{
+  "pack": {
+    "pack_format": 75,
+    "min_format": 69,
+    "max_format": 75,
+    "description": {
+      "text": "",
+      "extra": [
+        { "text": "Abyssal ", "bold": true, "color": "#5B8CF7" },
+        { "text": "Items", "bold": true, "color": "#A855F7" },
+        { "text": " pack", "bold": false, "color": "#C084FC" },
+        { "text": "\n" },
+        { "text": "by: ", "bold": false, "color": "#7DD3FC" },
+        { "text": "x0lz_", "bold": false, "color": "#7DD3FC" }
+      ]
+    }
+  }
+}
