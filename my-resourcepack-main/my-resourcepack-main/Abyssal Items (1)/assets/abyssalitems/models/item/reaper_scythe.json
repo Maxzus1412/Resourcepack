@@ -1,6 +1,0 @@
-{
-  "parent": "abyssalitems:item/large_handheld_scythe",
-  "textures": {
-    "layer0": "abyssalitems:item/reaper_scythe"
-  }
-}
